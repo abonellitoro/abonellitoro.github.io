@@ -3,7 +3,7 @@ body {
     width: 50%;
 }
 nav ul, footer ul {
-    font-family:'B612-Regular';
+    font-family: 'Varela Round', sans-serif;
     padding: 0px;
     list-style: none;
 }
@@ -20,7 +20,7 @@ a:hover {
 }
 h1 {
     font-size: 2em;
-    font-family:'B612-Regular';
+    font-family: 'Varela Round', sans-serif;
 }
 p {
     font-size: 1.5em;
