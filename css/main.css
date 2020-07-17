@@ -3,40 +3,40 @@ body {
     width: 50%;
 }
 nav ul, footer ul {
-    font-family: 'B612', sans-serif;
+    font-family: 'Varela Round', sans-serif;
     padding: 0px;
     list-style: none;
 }
 nav ul li, footer ul li {
-    font-family: 'B612', sans-serif;
+    font-family: 'Varela Round', sans-serif;
     display: inline;
     margin-right: 20px;
 }
 a {
     text-decoration: none;
-    color: rgba(221, 204, 0);
+    color: rgba(0, 204, 0);
 }
 a:hover {
     text-decoration: underline;
 }
 h1 {
     font-size: 2em;
-    font-family: 'B612', sans-serif;
+    font-family: 'Varela Round', sans-serif;
 }
 p {
-    font-family: 'B612', sans-serif;
+    font-family: 'Varela Round', sans-serif;
     font-size: 12 pt;
     line-height: 1.4em;
-    color:rgba(221, 221, 221);
+    color:rgba(0, 0, 0);
 }
 footer {
-    font-family: 'B612', sans-serif;
+    font-family: 'Varela Round', sans-serif;
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
 }
 
 ul.posts { 
-    font-family: 'B612', sans-serif;
+    font-family: 'Varela Round', sans-serif;
     margin: 20px auto 40px; 
     font-size: 1.5em;
 }
@@ -46,8 +46,8 @@ ul.posts li {
 }
 
 body {
-  font-family: 'B612', sans-serif;  
-  background-color: rgba(51, 51, 51);
-  color:rgba(221, 221, 221);
+  font-family: 'Varela Round', sans-serif;  
+  background-color: rgba(230, 230, 230);
+  color:rgba(0, 0, 0);
 }
 
