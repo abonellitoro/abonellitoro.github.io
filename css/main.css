@@ -1,4 +1,4 @@
-body {
+    body {
     margin: 60px auto;
     width: 50%;
     font-family: 'Varela Round', sans-serif;  
@@ -16,17 +16,15 @@ nav ul li, footer ul li {
     margin-right: 20px;
 }
 a {
-    color: #ddd;
+    color: #fc0;
     text-shadow: 0 1px 3px rgba(0,0,0,0.5);
-    -moz-font-feature-settings: "kern" 1;
     font-feature-settings: "kern" 1;
     font-kerning: normal; 
-    /*text-decoration: none;
-    color: rgba(221, 204, 0); */
+    text-decoration: none;
 }
-a:hover {
+/*a:hover {
     text-decoration: underline;
-}
+}*/
 h1 {
     font-size: 2em;
     font-family: 'Varela Round', sans-serif;
@@ -67,6 +65,7 @@ ul.posts li {
 }
 
  .banner {
+    background-color:rgb(120,120,120)
     background-attachment: fixed;
     background-image: url("images/background.png");
     background-position: center top;
