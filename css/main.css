@@ -2,7 +2,7 @@ body {
     margin: 60px auto;
     width: 50%;
     font-family: 'Varela Round', sans-serif;  
-    background-color: rgba(10, 10, 10);
+    background-color: rgba(51, 51, 51);
     color:rgba(221, 221, 221);
 }
 nav ul, footer ul {
