@@ -16,8 +16,13 @@ nav ul li, footer ul li {
     margin-right: 20px;
 }
 a {
-    text-decoration: none;
-    color: rgba(221, 204, 0);
+    color: #ddd;
+    text-shadow: 0 1px 3px rgba(0,0,0,0.5);
+    -moz-font-feature-settings: "kern" 1;
+    font-feature-settings: "kern" 1;
+    font-kerning: normal; 
+    /*text-decoration: none;
+    color: rgba(221, 204, 0); */
 }
 a:hover {
     text-decoration: underline;
@@ -61,3 +66,11 @@ ul.posts li {
     box-shadow: 0 3px 10px rgba(0,0,0,0.1);
 }
 
+ .banner {
+    background-attachment: fixed;
+    background-image: url("images/background.png");
+    background-position: center top;
+    background-size: cover;
+    line-height: 1.75;
+    text-align: center;
+}
